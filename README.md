@@ -18,13 +18,13 @@ Building production-grade web applications with real-time systems and AI integra
 
 ### Featured Projects
 
-**[ Synapse](github.com/kryonic-fluke/Synapse)** - Real-time collaborative canvas with AI insights
+**[ Synapse](https://github.com/kryonic-fluke/Synapse)** - Real-time collaborative canvas with AI insights
 - Sub-50ms sync, conflict resolution, Google Gemini integration
 
-**[CodeStash](github.com/kryonic-fluke/CodeStash)** - AI-powered code snippet manager
+**[CodeStash](https://github.com/kryonic-fluke/code_snippet_manager))** - AI-powered code snippet manager
 - Semantic search (pgvector), AI code reviews, TanStack Query
 
-**[ Oasis Desk](github.com/kryonic-fluke/Oasis-Desk)** - Hotel management dashboard
+**[ Wild OasisSpa ](https://github.com/kryonic-fluke/WildOasisSPA)** - Hotel management dashboard
 - Supabase backend, interactive analytics, file storage
 
 ---
