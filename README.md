@@ -1,6 +1,6 @@
 ### Hi, I'm Suyash 
 
-**Final Year BTech Student | Full-Stack Developer**
+**Final Year Engineering Undergrad  | Full-Stack Developer**
 
 Building production-grade web applications with real-time systems and AI integration.
 
