@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi, I'm Suyash 
 
-<!--
-**kryonic-fluke/kryonic-fluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final Year BTech Student | Full-Stack Developer**
 
-Here are some ideas to get you started:
+Building production-grade web applications with real-time systems and AI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** Seeking full-time MERN stack roles in NCR/Remote | Available immediately
+
+**What I'm working on:**
+-  Real-time collaborative systems (WebSockets, conflict resolution)
+-  AI-powered developer tools (semantic search, code analysis)
+-  Scalable full-stack architectures
+
+**Tech Stack:**
+`React` `Node.js` `TypeScript` `MongoDB` `PostgreSQL` `Firebase` `Docker` `AI/ML APIs`
+
+---
+
+### Featured Projects
+
+**[ Synapse](github.com/kryonic-fluke/Synapse)** - Real-time collaborative canvas with AI insights
+- Sub-100ms sync, conflict resolution, Google Gemini integration
+
+**[CodeStash](github.com/kryonic-fluke/CodeStash)** - AI-powered code snippet manager
+- Semantic search (pgvector), AI code reviews, TanStack Query
+
+**[ Oasis Desk](github.com/kryonic-fluke/Oasis-Desk)** - Hotel management dashboard
+- Supabase backend, interactive analytics, file storage
+
+---
+
+ **Reach me:** suyash.upadhyay01@gmail.com |[LinkedIn](https://www.linkedin.com/in/suyash-upadhyay-49554b333/)
+
+ Open to opportunities | Let's build something together
