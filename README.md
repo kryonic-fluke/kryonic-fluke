@@ -4,7 +4,7 @@
 
 Building production-grade web applications with real-time systems and AI integration.
 
-**Currently:** Seeking full-time MERN stack roles in NCR/Remote | Available immediately
+**Currently:** Seeking full-time MERN stack roles, Available immediately
 
 **What I'm working on:**
 -  Real-time collaborative systems (WebSockets, conflict resolution)
