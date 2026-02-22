@@ -21,7 +21,7 @@ Building production-grade web applications with real-time systems and AI integra
 **[ Synapse](https://github.com/kryonic-fluke/Synapse)** - Real-time collaborative canvas with AI insights
 - Sub-50ms sync, conflict resolution, Google Gemini integration
 
-**[CodeStash](https://github.com/kryonic-fluke/code_snippet_manager))** - AI-powered code snippet manager
+**[CodeStash](https://github.com/kryonic-fluke/code_snippet_manager)** - AI-powered code snippet manager
 - Semantic search (pgvector), AI code reviews, TanStack Query
 
 **[ Wild OasisSpa ](https://github.com/kryonic-fluke/WildOasisSPA)** - Hotel management dashboard
@@ -29,6 +29,6 @@ Building production-grade web applications with real-time systems and AI integra
 
 ---
 
- **Reach me:** suyash.upadhyay01@gmail.com |[LinkedIn](https://www.linkedin.com/in/suyash-upadhyay-49554b333/)
+ **Reach me:** suyash.upadhyay01@gmail.com | [LinkedIn](https://www.linkedin.com/in/suyash-upadhyay-49554b333/)
 
  Open to opportunities | Let's build something together
