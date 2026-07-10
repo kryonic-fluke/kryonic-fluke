@@ -19,7 +19,7 @@ Building production-grade web applications with real-time systems and AI integra
 ### Featured Projects
 
 **[ Synapse](https://github.com/kryonic-fluke/Synapse)** - Real-time collaborative canvas with AI insights
-- near instant sync, conflict resolution, Google Gemini integration
+- near instant sync, conflict resolution via last write wins, Google Gemini integration
 
 **[CodeStash](https://github.com/kryonic-fluke/code_snippet_manager)** - AI-powered code snippet manager
 - Semantic search (pgvector), AI code reviews, TanStack Query
